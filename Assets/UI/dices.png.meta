@@ -1,12 +1,15 @@
 fileFormatVersion: 2
-guid: 941137c0ab82f6843aa5e819a58ae292
-timeCreated: 1479389555
+guid: 800594c8abb9b534589d0e233916a862
+timeCreated: 1479633798
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: icons_0
-    21300002: icons_1
-    21300004: icons_2
+    21300000: dices_0
+    21300002: dices_1
+    21300004: dices_2
+    21300006: dices_3
+    21300008: dices_4
+    21300010: dices_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,7 +56,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: icons_0
+    - name: dices_0
       rect:
         serializedVersion: 2
         x: 0
@@ -64,7 +67,7 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: icons_1
+    - name: dices_1
       rect:
         serializedVersion: 2
         x: 16
@@ -75,10 +78,43 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: icons_2
+    - name: dices_2
       rect:
         serializedVersion: 2
         x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dices_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dices_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dices_5
+      rect:
+        serializedVersion: 2
+        x: 80
         y: 0
         width: 16
         height: 16
